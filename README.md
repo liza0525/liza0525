@@ -8,7 +8,7 @@
 <i style="font-size:50px;">"Debugging Life"</i>
 <br />
 <br />
-2023.01~ Python Back-end Engineer @Kakao Healthcare<br />
-2020.11 ~ 2022.12 Python Back-end Engineer @Linewalks<br />
+2023.01 ~ 2025.11 Python Backend Engineer @kakaohealthcare<br />
+2020.11 ~ 2022.12 Python Backend Engineer @Linewalks<br />
 2019.07 ~ 2020.06 삼성 청년 SW 아카데미 2기<br />
 </div>
